@@ -1,0 +1,1 @@
+console.log('hola este fue el inicio de nuestra applicion de peliculas')
